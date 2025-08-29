@@ -1,5 +1,5 @@
-# freecodecamp -- the beginning
 <!DOCTYPE html>
+# freecodecamp -- the beginning
 <html>
   <h2>introduction</h2>
   <body>checking if this works and shows up when i click on the github url.
